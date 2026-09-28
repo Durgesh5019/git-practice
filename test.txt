@@ -2,3 +2,4 @@ Hello Git
 i am learning Git
 Hi i am Durgesh rai 
 Hello git this is updated txt message
+this is udpate change in the repo
